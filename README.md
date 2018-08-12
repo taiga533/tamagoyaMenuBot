@@ -1,0 +1,2 @@
+# tamagoyaMenuBto
+たまご屋のお弁当のメニューを週ごとに取得するslackボットです。
